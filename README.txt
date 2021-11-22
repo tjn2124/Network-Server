@@ -11,7 +11,7 @@ displays a prompt with which program has terminated.
 mdb-lookup-server-nc.sh is a shell script that creates a named pipe
 and then the netcat (nc) program turns the c program mdb-lookup-cs3157
 into a network server using nc from CLAC. The named pipe is removed 
-at the end of the script and when ever a process is terminated from 
+at the end of the script and whenever a process is terminated from 
 the client. 
 
 mdb-lookup-server-nc-1.c executs the shell script as a new process 
