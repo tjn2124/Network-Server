@@ -2,7 +2,7 @@
 Network Server 
 
 mdb-lookup-server-nc-2.c promps the user for a valid port number 
-and fork/execls into script mdb-lookup-server-nc.sh. It dosplays a 
+and fork/execls into script mdb-lookup-server-nc.sh. It displays a 
 message that an instance of the mdb-lookup-server has started as 
 a network server with the child process' id and port number that 
 the process was started on. If a process is terminated the program
