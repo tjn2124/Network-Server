@@ -2,9 +2,9 @@
  * mdb-lookup-server-nc-1.c
  * Disclaimer: I did not write the 
  * code in this file, but it is necessary
- * to link with the file I created 
- * mdb-lookup-server-nc-2.c and
- *  mdb-lookup-server-nc.sh
+ * to link with the program I wrote 
+ * mdb-lookup-server-nc-2.c with my 
+ * shell script: mdb-lookup-server-nc.sh
  */
 #include <stdio.h>
 #include <stdlib.h>
